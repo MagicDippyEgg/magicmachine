@@ -1,0 +1,16 @@
+{
+"companyName": "Magic Dippy Egg",
+"productName": "Magic Machine v2",
+"productVersion": "2",
+"dataUrl": "Magic Machive v2 HTML5.data.unityweb",
+"wasmCodeUrl": "Magic Machive v2 HTML5.wasm.code.unityweb",
+"wasmFrameworkUrl": "Magic Machive v2 HTML5.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
